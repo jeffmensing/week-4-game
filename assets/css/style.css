@@ -1,0 +1,13 @@
+
+.jumbotron {
+	text-align: center;
+	opacity: .75;
+}
+
+body {
+	background: url(../images/crystals.jpg) no-repeat center;
+}
+
+.panel {
+	opacity: .75;
+}
