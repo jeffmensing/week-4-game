@@ -1,7 +1,8 @@
 
 .jumbotron {
 	text-align: center;
-	opacity: .75;
+	padding: 0.5em 0.6em;
+	opacity: .80;
 }
 
 body {
@@ -9,5 +10,5 @@ body {
 }
 
 .panel {
-	opacity: .75;
+	opacity: .80;
 }
